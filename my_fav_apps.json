@@ -1,0 +1,14 @@
+[
+    {
+        "name": "zomato",
+        "category": "food delivery app"
+    },
+    {
+        "name": "instagram",
+        "category": "social-media app"
+    },
+    {
+        "name": "paytm",
+        "category": "finance"
+    }
+]
